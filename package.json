@@ -1,0 +1,11 @@
+{
+  "name": "npm-unsafe-perm",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:Carsten-Leue/npm-unsafe-perm.git",
+  "author": "Dr. Carsten Leue <carsten.leue@gmx.net>",
+  "license": "MIT",
+  "scripts": {
+    "postversion": "node print.js"
+  }
+}
